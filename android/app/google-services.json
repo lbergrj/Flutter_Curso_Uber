@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4300009232",
+    "firebase_url": "https://uber-2992a.firebaseio.com",
+    "project_id": "uber-2992a",
+    "storage_bucket": "uber-2992a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4300009232:android:e0f464fb897c61c973ff95",
+        "android_client_info": {
+          "package_name": "lvsoftwares.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4300009232-n8p3j99krmkocb564lgde0ggnhtv4afd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrQjrqSpmbfM5binC_wkTOOPqKqQ-TlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4300009232-n8p3j99krmkocb564lgde0ggnhtv4afd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
